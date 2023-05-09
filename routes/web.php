@@ -44,4 +44,4 @@ Route::get('about-us', function () {
     ];
 
     return view('about', $data);
-})->name('about');
+})->name('about'); 
