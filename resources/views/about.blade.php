@@ -7,6 +7,22 @@
         <title>Chi Siamo</title>
     </head>
     <body>
+        <header>
+
+            <nav>
+                <ul>
+                    <li>
+                        <a href="{{route('home')}}">Home</a>    
+                    </li>
+                    
+                    <li>
+                    <a href="{{route('about')}}">Chi Siamo</a> 
+                    </li>
+                </ul>
+            </nav>
+
+
+        </header>
         <main>
 
         <h1>lo staff</h1>
